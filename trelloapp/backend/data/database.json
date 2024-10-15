@@ -1,0 +1,81 @@
+{
+  "boards": [
+    {
+      "name": "Shopping List",
+      "user": 0,
+      "starred": false,
+      "created": "2024-10-14",
+      "id": 1
+    },
+    {
+      "name": "hello board",
+      "user": 0,
+      "starred": false,
+      "created": "2024-10-14",
+      "id": 2
+    }
+  ],
+  "cards": [
+    {
+      "order": 0,
+      "boardId": 1,
+      "listId": 1,
+      "name": "bread",
+      "created": "2024-10-14",
+      "deadline": "2024-10-17",
+      "description": "",
+      "completed": false,
+      "id": 1
+    },
+    {
+      "order": 2,
+      "boardId": 1,
+      "listId": 1,
+      "name": "milk",
+      "created": "2024-10-15",
+      "deadline": "2024-10-18",
+      "description": "",
+      "completed": false,
+      "id": 3
+    },
+    {
+      "order": 0,
+      "boardId": 1,
+      "listId": 2,
+      "name": "soap",
+      "created": "2024-10-15",
+      "deadline": "2024-10-18",
+      "description": "",
+      "completed": false,
+      "id": 4
+    },
+    {
+      "order": 1,
+      "boardId": 1,
+      "listId": 2,
+      "name": "shampoo",
+      "created": "2024-10-15",
+      "deadline": "2024-10-18",
+      "description": "",
+      "completed": false,
+      "id": 5
+    }
+  ],
+  "lists": [
+    {
+      "boardId": 1,
+      "name": "groceries",
+      "order": 0,
+      "created": "2024-10-14",
+      "id": 1
+    },
+    {
+      "boardId": 1,
+      "name": "drugstore",
+      "order": 1,
+      "created": "2024-10-15",
+      "id": 2
+    }
+  ],
+  "users": []
+}
