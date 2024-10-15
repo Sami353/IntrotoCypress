@@ -64,3 +64,8 @@ Use the screenshots generated in the `cypress/screenshots` folder for debugging 
 
 - [Cypress Documentation](https://docs.cypress.io)
 - [Applitools Documentation](https://applitools.com/docs)
+
+### Snapshot
+
+![Cypress Snapshot](Cypress%20Snapshot.png)
+
